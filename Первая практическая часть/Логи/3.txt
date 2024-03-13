@@ -1,0 +1,2272 @@
+{
+  "metadata": {
+    "device": {
+      "deviceId": "Diplom_mobile_API_33",
+      "name": "Diplom mobile API 33",
+      "serialNumber": "emulator-5554",
+      "isOnline": true,
+      "release": "13",
+      "sdk": 33,
+      "featureLevel": 33,
+      "model": "",
+      "isEmulator": true
+    },
+    "filter": "error",
+    "projectApplicationIds": [
+      "com.example.diplom",
+      "com.example.diplom.test"
+    ]
+  },
+  "logcatMessages": [
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 592,
+        "tid": 673,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "ActivityManager",
+        "timestamp": {
+          "seconds": 1709800353,
+          "nanos": 303000000
+        }
+      },
+      "message": "freezing 1405 android.process.acore"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 1098,
+        "tid": 1098,
+        "applicationId": "com.google.android.apps.nexuslauncher",
+        "processName": "com.google.android.apps.nexuslauncher",
+        "tag": "TaplEvents",
+        "timestamp": {
+          "seconds": 1709800355,
+          "nanos": 769000000
+        }
+      },
+      "message": "TIS / TouchInteractionService.onInputEvent: MotionEvent { action\u003dACTION_DOWN, actionButton\u003d0, id[0]\u003d0, x[0]\u003d914.9414, y[0]\u003d450.9375, toolType[0]\u003dTOOL_TYPE_FINGER, buttonState\u003d0, classification\u003dNONE, metaState\u003d0, flags\u003d0x0, edgeFlags\u003d0x0, pointerCount\u003d1, historySize\u003d0, eventTime\u003d2370079, downTime\u003d2370079, deviceId\u003d8, source\u003d0x5002, displayId\u003d0, eventId\u003d43236916 }"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 4936,
+        "tid": 4953,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat",
+        "tag": "EGL_emulation",
+        "timestamp": {
+          "seconds": 1709800355,
+          "nanos": 816000000
+        }
+      },
+      "message": "app_time_stats: avg\u003d825.65ms min\u003d0.51ms max\u003d34354.23ms count\u003d42"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 1098,
+        "tid": 1098,
+        "applicationId": "com.google.android.apps.nexuslauncher",
+        "processName": "com.google.android.apps.nexuslauncher",
+        "tag": "TaplEvents",
+        "timestamp": {
+          "seconds": 1709800355,
+          "nanos": 966000000
+        }
+      },
+      "message": "TIS / TouchInteractionService.onInputEvent: MotionEvent { action\u003dACTION_UP, actionButton\u003d0, id[0]\u003d0, x[0]\u003d916.9519, y[0]\u003d453.98438, toolType[0]\u003dTOOL_TYPE_FINGER, buttonState\u003d0, classification\u003dNONE, metaState\u003d0, flags\u003d0x0, edgeFlags\u003d0x0, pointerCount\u003d1, historySize\u003d0, eventTime\u003d2370286, downTime\u003d2370079, deviceId\u003d8, source\u003d0x5002, displayId\u003d0, eventId\u003d867305516 }"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 410,
+        "tid": 556,
+        "applicationId": "audioserver",
+        "processName": "audioserver",
+        "tag": "AudioFlinger",
+        "timestamp": {
+          "seconds": 1709800356,
+          "nanos": 42000000
+        }
+      },
+      "message": "mixer(0xb400007378ac69a0) throttle end: throttle time(31)"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 592,
+        "tid": 780,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "CoreBackPreview",
+        "timestamp": {
+          "seconds": 1709800356,
+          "nanos": 80000000
+        }
+      },
+      "message": "Window{709f3c1 u0 com.yandex.samokat/com.yandex.scooter.app.ui.main.MainActivity}: Setting back callback OnBackInvokedCallbackInfo{mCallback\u003dandroid.window.IOnBackInvokedCallback$Stub$Proxy@97fca43, mPriority\u003d0}"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 410,
+        "tid": 556,
+        "applicationId": "audioserver",
+        "processName": "audioserver",
+        "tag": "AudioFlinger",
+        "timestamp": {
+          "seconds": 1709800356,
+          "nanos": 88000000
+        }
+      },
+      "message": "mixer(0xb400007378ac69a0) throttle end: throttle time(32)"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 4936,
+        "tid": 4953,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat",
+        "tag": "Parcel",
+        "timestamp": {
+          "seconds": 1709800356,
+          "nanos": 135000000
+        }
+      },
+      "message": "Expecting binder but got null!"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 1098,
+        "tid": 1098,
+        "applicationId": "com.google.android.apps.nexuslauncher",
+        "processName": "com.google.android.apps.nexuslauncher",
+        "tag": "TaplEvents",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 512000000
+        }
+      },
+      "message": "TIS / TouchInteractionService.onInputEvent: MotionEvent { action\u003dACTION_DOWN, actionButton\u003d0, id[0]\u003d0, x[0]\u003d750.97046, y[0]\u003d1007.9297, toolType[0]\u003dTOOL_TYPE_FINGER, buttonState\u003d0, classification\u003dNONE, metaState\u003d0, flags\u003d0x0, edgeFlags\u003d0x0, pointerCount\u003d1, historySize\u003d0, eventTime\u003d2373817, downTime\u003d2373817, deviceId\u003d8, source\u003d0x5002, displayId\u003d0, eventId\u003d998283207 }"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 1098,
+        "tid": 1098,
+        "applicationId": "com.google.android.apps.nexuslauncher",
+        "processName": "com.google.android.apps.nexuslauncher",
+        "tag": "TaplEvents",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 673000000
+        }
+      },
+      "message": "TIS / TouchInteractionService.onInputEvent: MotionEvent { action\u003dACTION_UP, actionButton\u003d0, id[0]\u003d0, x[0]\u003d753.9697, y[0]\u003d1007.9297, toolType[0]\u003dTOOL_TYPE_FINGER, buttonState\u003d0, classification\u003dNONE, metaState\u003d0, flags\u003d0x0, edgeFlags\u003d0x0, pointerCount\u003d1, historySize\u003d0, eventTime\u003d2373994, downTime\u003d2373817, deviceId\u003d8, source\u003d0x5002, displayId\u003d0, eventId\u003d526498671 }"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 592,
+        "tid": 1723,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "CoreBackPreview",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 745000000
+        }
+      },
+      "message": "Window{709f3c1 u0 com.yandex.samokat/com.yandex.scooter.app.ui.main.MainActivity}: Setting back callback null"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 592,
+        "tid": 1723,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "InputManager-JNI",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 767000000
+        }
+      },
+      "message": "Input channel object \u0027709f3c1 com.yandex.samokat/com.yandex.scooter.app.ui.main.MainActivity (client)\u0027 was disposed without first being removed with the input manager!"
+    },
+    {
+      "header": {
+        "logLevel": "VERBOSE",
+        "pid": 592,
+        "tid": 614,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "WindowManager",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 783000000
+        }
+      },
+      "message": "Unknown focus tokens, dropping reportFocusChanged"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 413,
+        "tid": 486,
+        "applicationId": "surfaceflinger",
+        "processName": "surfaceflinger",
+        "tag": "TransactionTracing",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 790000000
+        }
+      },
+      "message": "Could not find layer handle 0xb400007af2655e10"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 413,
+        "tid": 486,
+        "applicationId": "surfaceflinger",
+        "processName": "surfaceflinger",
+        "tag": "TransactionTracing",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 791000000
+        }
+      },
+      "message": "Could not find layer handle 0xb400007af2655510"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 4936,
+        "tid": 4953,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat",
+        "tag": "EGL_emulation",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 838000000
+        }
+      },
+      "message": "app_time_stats: avg\u003d667.23ms min\u003d12.48ms max\u003d3636.02ms count\u003d6"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 592,
+        "tid": 780,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "CoreBackPreview",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 854000000
+        }
+      },
+      "message": "Window{ad84cab u0 Toast}: Setting back callback OnBackInvokedCallbackInfo{mCallback\u003dandroid.window.IOnBackInvokedCallback$Stub$Proxy@ee866a1, mPriority\u003d0}"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 4936,
+        "tid": 4936,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat",
+        "tag": "System.err",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 866000000
+        }
+      },
+      "message": "java.lang.IllegalStateException: Fatal Exception thrown on Scheduler."
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 4936,
+        "tid": 4936,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat",
+        "tag": "System.err",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 868000000
+        }
+      },
+      "message": "\tat io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 4936,
+        "tid": 4936,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat",
+        "tag": "System.err",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 868000000
+        }
+      },
+      "message": "\tat android.os.Handler.handleCallback(Handler.java:942)"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 4936,
+        "tid": 4936,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat",
+        "tag": "System.err",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 868000000
+        }
+      },
+      "message": "\tat android.os.Handler.dispatchMessage(Handler.java:99)"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 4936,
+        "tid": 4936,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat",
+        "tag": "System.err",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 868000000
+        }
+      },
+      "message": "\tat android.os.Looper.loopOnce(Looper.java:201)"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 4936,
+        "tid": 4936,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat",
+        "tag": "System.err",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 868000000
+        }
+      },
+      "message": "\tat android.os.Looper.loop(Looper.java:288)"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 4936,
+        "tid": 4936,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat",
+        "tag": "System.err",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 868000000
+        }
+      },
+      "message": "\tat android.app.ActivityThread.main(ActivityThread.java:7872)"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 4936,
+        "tid": 4936,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat",
+        "tag": "System.err",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 868000000
+        }
+      },
+      "message": "\tat java.lang.reflect.Method.invoke(Native Method)"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 4936,
+        "tid": 4936,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat",
+        "tag": "System.err",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 868000000
+        }
+      },
+      "message": "\tat com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 4936,
+        "tid": 4936,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat",
+        "tag": "System.err",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 868000000
+        }
+      },
+      "message": "\tat com.android.internal.os.ZygoteInit.main(ZygoteInit.java:936)"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 4936,
+        "tid": 4936,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat",
+        "tag": "System.err",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 868000000
+        }
+      },
+      "message": "Caused by: java.lang.RuntimeException: Этот заказ уже в работе"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 4936,
+        "tid": 4936,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat",
+        "tag": "System.err",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 868000000
+        }
+      },
+      "message": "\tat com.yandex.scooter.app.ui.orders.OrderPresenter$onOrderAccept$1.onError(OrderPresenter.kt:82)"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 4936,
+        "tid": 4936,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat",
+        "tag": "System.err",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 868000000
+        }
+      },
+      "message": "\tat io.reactivex.internal.operators.completable.CompletableObserveOn$ObserveOnCompletableObserver.run(CompletableObserveOn.java:87)"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 4936,
+        "tid": 4936,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat",
+        "tag": "System.err",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 868000000
+        }
+      },
+      "message": "\tat io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:109)"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 4936,
+        "tid": 4936,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat",
+        "tag": "System.err",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 868000000
+        }
+      },
+      "message": "\t... 8 more"
+    },
+    {
+      "header": {
+        "logLevel": "ERROR",
+        "pid": 4936,
+        "tid": 4936,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat",
+        "tag": "CustomActivityOnCrash",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 869000000
+        }
+      },
+      "message": "App has crashed, executing CustomActivityOnCrash\u0027s UncaughtExceptionHandler\njava.lang.IllegalStateException: Fatal Exception thrown on Scheduler.\n\tat io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)\n\tat android.os.Handler.handleCallback(Handler.java:942)\n\tat android.os.Handler.dispatchMessage(Handler.java:99)\n\tat android.os.Looper.loopOnce(Looper.java:201)\n\tat android.os.Looper.loop(Looper.java:288)\n\tat android.app.ActivityThread.main(ActivityThread.java:7872)\n\tat java.lang.reflect.Method.invoke(Native Method)\n\tat com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)\n\tat com.android.internal.os.ZygoteInit.main(ZygoteInit.java:936)\nCaused by: java.lang.RuntimeException: Этот заказ уже в работе\n\tat com.yandex.scooter.app.ui.orders.OrderPresenter$onOrderAccept$1.onError(OrderPresenter.kt:82)\n\tat io.reactivex.internal.operators.completable.CompletableObserveOn$ObserveOnCompletableObserver.run(CompletableObserveOn.java:87)\n\tat io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:109)\n\tat android.os.Handler.handleCallback(Handler.java:942) \n\tat android.os.Handler.dispatchMessage(Handler.java:99) \n\tat android.os.Looper.loopOnce(Looper.java:201) \n\tat android.os.Looper.loop(Looper.java:288) \n\tat android.app.ActivityThread.main(ActivityThread.java:7872) \n\tat java.lang.reflect.Method.invoke(Native Method) \n\tat com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548) \n\tat com.android.internal.os.ZygoteInit.main(ZygoteInit.java:936) "
+    },
+    {
+      "header": {
+        "logLevel": "INFO",
+        "pid": 592,
+        "tid": 609,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "ActivityTaskManager",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 910000000
+        }
+      },
+      "message": "START u0 {flg\u003d0x10008000 cmp\u003dcom.yandex.samokat/com.yandex.scooter.app.ui.CustomCrashActivity (has extras)} from uid 10172"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 592,
+        "tid": 609,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "CompatibilityChangeReporter",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 912000000
+        }
+      },
+      "message": "Compat change id reported: 194480991; UID 10172; state: ENABLED"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 592,
+        "tid": 609,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "CompatibilityChangeReporter",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 967000000
+        }
+      },
+      "message": "Compat change id reported: 174042980; UID 10172; state: DISABLED"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 592,
+        "tid": 609,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "CompatibilityChangeReporter",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 968000000
+        }
+      },
+      "message": "Compat change id reported: 184838306; UID 10172; state: DISABLED"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 592,
+        "tid": 609,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "CompatibilityChangeReporter",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 968000000
+        }
+      },
+      "message": "Compat change id reported: 185004937; UID 10172; state: DISABLED"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 592,
+        "tid": 609,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "CompatibilityChangeReporter",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 971000000
+        }
+      },
+      "message": "Compat change id reported: 181136395; UID 10172; state: DISABLED"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 592,
+        "tid": 609,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "CompatibilityChangeReporter",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 971000000
+        }
+      },
+      "message": "Compat change id reported: 174042936; UID 10172; state: DISABLED"
+    },
+    {
+      "header": {
+        "logLevel": "VERBOSE",
+        "pid": 592,
+        "tid": 609,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "SplashScreenExceptionList",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 976000000
+        }
+      },
+      "message": "SplashScreen checking exception for package com.yandex.samokat (target sdk:28) -\u003e false"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 592,
+        "tid": 609,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "CompatibilityChangeReporter",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 977000000
+        }
+      },
+      "message": "Compat change id reported: 205907456; UID 10172; state: DISABLED"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 592,
+        "tid": 609,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "CompatibilityChangeReporter",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 981000000
+        }
+      },
+      "message": "Compat change id reported: 194833441; UID 10172; state: DISABLED"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 592,
+        "tid": 780,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "ActivityTaskManager",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 984000000
+        }
+      },
+      "message": "Duplicate finish request for r\u003dActivityRecord{2db00b5 u0 com.yandex.samokat/com.yandex.scooter.app.ui.main.MainActivity} t31 f}}"
+    },
+    {
+      "header": {
+        "logLevel": "INFO",
+        "pid": 4936,
+        "tid": 4936,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat",
+        "tag": "Process",
+        "timestamp": {
+          "seconds": 1709800359,
+          "nanos": 984000000
+        }
+      },
+      "message": "Sending signal. PID: 4936 SIG: 9"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 786,
+        "tid": 1015,
+        "applicationId": "com.android.systemui",
+        "processName": "com.android.systemui",
+        "tag": "SplashScreenView",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 5000000
+        }
+      },
+      "message": "Build android.window.SplashScreenView{c3c644d V.E...... ......ID 0,0-0,0}\nIcon: view: null drawable: null size: 0\nBranding: view: android.view.View{cd45b02 G.ED..... ......I. 0,0-0,0 #10204db android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 592,
+        "tid": 609,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "CoreBackPreview",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 13000000
+        }
+      },
+      "message": "Window{984817f u0 Splash Screen com.yandex.samokat}: Setting back callback OnBackInvokedCallbackInfo{mCallback\u003dandroid.window.IOnBackInvokedCallback$Stub$Proxy@1799995, mPriority\u003d0}"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 413,
+        "tid": 486,
+        "applicationId": "surfaceflinger",
+        "processName": "surfaceflinger",
+        "tag": "TransactionTracing",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 19000000
+        }
+      },
+      "message": "Could not find layer handle 0xb400007af2660eb0"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 413,
+        "tid": 486,
+        "applicationId": "surfaceflinger",
+        "processName": "surfaceflinger",
+        "tag": "TransactionTracing",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 19000000
+        }
+      },
+      "message": "Could not find layer handle 0xb400007af265b510"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 413,
+        "tid": 486,
+        "applicationId": "surfaceflinger",
+        "processName": "surfaceflinger",
+        "tag": "TransactionTracing",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 19000000
+        }
+      },
+      "message": "Could not find layer handle 0xb400007af265e270"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 413,
+        "tid": 486,
+        "applicationId": "surfaceflinger",
+        "processName": "surfaceflinger",
+        "tag": "TransactionTracing",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 19000000
+        }
+      },
+      "message": "Could not find layer handle 0xb400007af265a490"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 413,
+        "tid": 486,
+        "applicationId": "surfaceflinger",
+        "processName": "surfaceflinger",
+        "tag": "TransactionTracing",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 19000000
+        }
+      },
+      "message": "Could not find layer handle 0xb400007af265fd10"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 413,
+        "tid": 486,
+        "applicationId": "surfaceflinger",
+        "processName": "surfaceflinger",
+        "tag": "TransactionTracing",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 19000000
+        }
+      },
+      "message": "Could not find layer handle 0xb400007af265fd10"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 786,
+        "tid": 1027,
+        "applicationId": "com.android.systemui",
+        "processName": "com.android.systemui",
+        "tag": "Parcel",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 76000000
+        }
+      },
+      "message": "Expecting binder but got null!"
+    },
+    {
+      "header": {
+        "logLevel": "INFO",
+        "pid": 592,
+        "tid": 609,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "ActivityManager",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 98000000
+        }
+      },
+      "message": "Process com.yandex.samokat (pid 4936) has died: fg  TOP "
+    },
+    {
+      "header": {
+        "logLevel": "INFO",
+        "pid": 592,
+        "tid": 2777,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "WindowManager",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 99000000
+        }
+      },
+      "message": "WIN DEATH: Window{ad84cab u0 Toast}"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 592,
+        "tid": 2777,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "InputManager-JNI",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 99000000
+        }
+      },
+      "message": "Input channel object \u0027ad84cab Toast (client)\u0027 was disposed without first being removed with the input manager!"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 5117,
+        "tid": 5117,
+        "applicationId": "kworker/0",
+        "processName": "kworker/0:2-virtio_vsock",
+        "tag": "binder_cleanup_transaction",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 99000000
+        }
+      },
+      "message": "40 callbacks suppressed"
+    },
+    {
+      "header": {
+        "logLevel": "INFO",
+        "pid": 5117,
+        "tid": 5117,
+        "applicationId": "kworker/0",
+        "processName": "kworker/0:2-virtio_vsock",
+        "tag": "binder",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 99000000
+        }
+      },
+      "message": "undelivered transaction 233068, process died."
+    },
+    {
+      "header": {
+        "logLevel": "INFO",
+        "pid": 367,
+        "tid": 367,
+        "applicationId": "pid-367",
+        "processName": "pid-367",
+        "tag": "Zygote",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 101000000
+        }
+      },
+      "message": "Process 4936 exited due to signal 9 (Killed)"
+    },
+    {
+      "header": {
+        "logLevel": "INFO",
+        "pid": 592,
+        "tid": 1149,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "WindowManager",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 102000000
+        }
+      },
+      "message": "WIN DEATH: Window{5c3ba9b u0 com.yandex.samokat/com.yandex.scooter.app.ui.main.MainActivity}"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 592,
+        "tid": 1149,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "InputManager-JNI",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 102000000
+        }
+      },
+      "message": "Input channel object \u00275c3ba9b com.yandex.samokat/com.yandex.scooter.app.ui.main.MainActivity (client)\u0027 was disposed without first being removed with the input manager!"
+    },
+    {
+      "header": {
+        "logLevel": "INFO",
+        "pid": 592,
+        "tid": 624,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "libprocessgroup",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 102000000
+        }
+      },
+      "message": "Successfully killed process cgroup uid 10172 pid 4936 in 0ms"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 413,
+        "tid": 486,
+        "applicationId": "surfaceflinger",
+        "processName": "surfaceflinger",
+        "tag": "TransactionTracing",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 118000000
+        }
+      },
+      "message": "Could not find layer handle 0xb400007af26604f0"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 592,
+        "tid": 614,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "CompatibilityChangeReporter",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 119000000
+        }
+      },
+      "message": "Compat change id reported: 135634846; UID 10172; state: DISABLED"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 592,
+        "tid": 614,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "CompatibilityChangeReporter",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 119000000
+        }
+      },
+      "message": "Compat change id reported: 177438394; UID 10172; state: DISABLED"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 592,
+        "tid": 614,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "CompatibilityChangeReporter",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 119000000
+        }
+      },
+      "message": "Compat change id reported: 135772972; UID 10172; state: DISABLED"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 592,
+        "tid": 614,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "CompatibilityChangeReporter",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 119000000
+        }
+      },
+      "message": "Compat change id reported: 135754954; UID 10172; state: DISABLED"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 592,
+        "tid": 623,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "CompatibilityChangeReporter",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 128000000
+        }
+      },
+      "message": "Compat change id reported: 143937733; UID 10172; state: DISABLED"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 367,
+        "tid": 367,
+        "applicationId": "pid-367",
+        "processName": "pid-367",
+        "tag": "Zygote",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 166000000
+        }
+      },
+      "message": "Forked child process 5143"
+    },
+    {
+      "header": {
+        "logLevel": "INFO",
+        "pid": 592,
+        "tid": 623,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "ActivityManager",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 167000000
+        }
+      },
+      "message": "Start proc 5143:com.yandex.samokat:error_activity/u0a172 for top-activity {com.yandex.samokat/com.yandex.scooter.app.ui.CustomCrashActivity}"
+    },
+    {
+      "header": {
+        "logLevel": "INFO",
+        "pid": 5143,
+        "tid": 5143,
+        "applicationId": "pid-5143",
+        "processName": "pid-5143",
+        "tag": "libc",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 201000000
+        }
+      },
+      "message": "SetHeapTaggingLevel: tag level set to 0"
+    },
+    {
+      "header": {
+        "logLevel": "INFO",
+        "pid": 5143,
+        "tid": 5143,
+        "applicationId": "pid-5143",
+        "processName": "pid-5143",
+        "tag": ":error_activity",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 210000000
+        }
+      },
+      "message": "Late-enabling -Xcheck:jni"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 592,
+        "tid": 614,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "ActivityTaskManager",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 467000000
+        }
+      },
+      "message": "Activity top resumed state loss timeout for ActivityRecord{2db00b5 u0 com.yandex.samokat/com.yandex.scooter.app.ui.main.MainActivity} t31 f} isExiting}"
+    },
+    {
+      "header": {
+        "logLevel": "INFO",
+        "pid": 441,
+        "tid": 470,
+        "applicationId": "adbd",
+        "processName": "adbd",
+        "tag": "adbd",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 522000000
+        }
+      },
+      "message": "jdwp connection from 5143"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 5143,
+        "tid": 5143,
+        "applicationId": "pid-5143",
+        "processName": "pid-5143",
+        "tag": "CompatibilityChangeReporter",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 590000000
+        }
+      },
+      "message": "Compat change id reported: 171979766; UID 10172; state: DISABLED"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 592,
+        "tid": 4695,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "Parcel",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 596000000
+        }
+      },
+      "message": "Expecting binder but got null!"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 592,
+        "tid": 4695,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "Parcel",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 599000000
+        }
+      },
+      "message": "Expecting binder but got null!"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 5143,
+        "tid": 5143,
+        "applicationId": "pid-5143",
+        "processName": "pid-5143",
+        "tag": "ApplicationLoaders",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 611000000
+        }
+      },
+      "message": "Returning zygote-cached class loader: /system/framework/android.test.base.jar"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 5143,
+        "tid": 5143,
+        "applicationId": "pid-5143",
+        "processName": "pid-5143",
+        "tag": "ziparchive",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 612000000
+        }
+      },
+      "message": "Unable to open \u0027/data/app/~~ocwb1Fxv3A7ohSMgvc2uYQ\u003d\u003d/com.yandex.samokat-er_6Ay0fFjDKbpxMwoD95A\u003d\u003d/base.dm\u0027: No such file or directory"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 5143,
+        "tid": 5143,
+        "applicationId": "pid-5143",
+        "processName": "pid-5143",
+        "tag": "ziparchive",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 612000000
+        }
+      },
+      "message": "Unable to open \u0027/data/app/~~ocwb1Fxv3A7ohSMgvc2uYQ\u003d\u003d/com.yandex.samokat-er_6Ay0fFjDKbpxMwoD95A\u003d\u003d/base.dm\u0027: No such file or directory"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 5143,
+        "tid": 5143,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat:error_activity",
+        "tag": "nativeloader",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 764000000
+        }
+      },
+      "message": "Configuring classloader-namespace for other apk /data/app/~~ocwb1Fxv3A7ohSMgvc2uYQ\u003d\u003d/com.yandex.samokat-er_6Ay0fFjDKbpxMwoD95A\u003d\u003d/base.apk. target_sdk_version\u003d28, uses_libraries\u003d, library_path\u003d/data/app/~~ocwb1Fxv3A7ohSMgvc2uYQ\u003d\u003d/com.yandex.samokat-er_6Ay0fFjDKbpxMwoD95A\u003d\u003d/lib/arm64, permitted_path\u003d/data:/mnt/expand:/data/user/0/com.yandex.samokat"
+    },
+    {
+      "header": {
+        "logLevel": "VERBOSE",
+        "pid": 5143,
+        "tid": 5143,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat:error_activity",
+        "tag": "GraphicsEnvironment",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 778000000
+        }
+      },
+      "message": "ANGLE Developer option for \u0027com.yandex.samokat\u0027 set to: \u0027default\u0027"
+    },
+    {
+      "header": {
+        "logLevel": "VERBOSE",
+        "pid": 5143,
+        "tid": 5143,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat:error_activity",
+        "tag": "GraphicsEnvironment",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 778000000
+        }
+      },
+      "message": "ANGLE GameManagerService for com.yandex.samokat: false"
+    },
+    {
+      "header": {
+        "logLevel": "VERBOSE",
+        "pid": 5143,
+        "tid": 5143,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat:error_activity",
+        "tag": "GraphicsEnvironment",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 779000000
+        }
+      },
+      "message": "Neither updatable production driver nor prerelease driver is supported."
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 5143,
+        "tid": 5143,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat:error_activity",
+        "tag": "NetworkSecurityConfig",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 782000000
+        }
+      },
+      "message": "Using Network Security Config from resource network_security_config debugBuild: true"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 5143,
+        "tid": 5143,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat:error_activity",
+        "tag": "NetworkSecurityConfig",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 789000000
+        }
+      },
+      "message": "Using Network Security Config from resource network_security_config debugBuild: true"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 5143,
+        "tid": 5165,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat:error_activity",
+        "tag": "libEGL",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 827000000
+        }
+      },
+      "message": "loaded /vendor/lib64/egl/libEGL_emulation.so"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 5143,
+        "tid": 5165,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat:error_activity",
+        "tag": "libEGL",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 830000000
+        }
+      },
+      "message": "loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 5143,
+        "tid": 5165,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat:error_activity",
+        "tag": "libEGL",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 831000000
+        }
+      },
+      "message": "loaded /vendor/lib64/egl/libGLESv2_emulation.so"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 5143,
+        "tid": 5143,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat:error_activity",
+        "tag": ":error_activity",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 843000000
+        }
+      },
+      "message": "Accessing hidden method Landroid/view/View;-\u003ecomputeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 5143,
+        "tid": 5143,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat:error_activity",
+        "tag": ":error_activity",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 844000000
+        }
+      },
+      "message": "Accessing hidden method Landroid/view/ViewGroup;-\u003emakeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 5143,
+        "tid": 5143,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat:error_activity",
+        "tag": "CompatibilityChangeReporter",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 850000000
+        }
+      },
+      "message": "Compat change id reported: 210923482; UID 10172; state: DISABLED"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 5143,
+        "tid": 5143,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat:error_activity",
+        "tag": "CompatibilityChangeReporter",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 851000000
+        }
+      },
+      "message": "Compat change id reported: 37756858; UID 10172; state: ENABLED"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 5143,
+        "tid": 5143,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat:error_activity",
+        "tag": "CompatibilityChangeReporter",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 854000000
+        }
+      },
+      "message": "Compat change id reported: 171228096; UID 10172; state: ENABLED"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 592,
+        "tid": 609,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "CoreBackPreview",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 882000000
+        }
+      },
+      "message": "Window{b1277fe u0 com.yandex.samokat/com.yandex.scooter.app.ui.CustomCrashActivity}: Setting back callback OnBackInvokedCallbackInfo{mCallback\u003dandroid.window.IOnBackInvokedCallback$Stub$Proxy@55a19ac, mPriority\u003d0}"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 786,
+        "tid": 1027,
+        "applicationId": "com.android.systemui",
+        "processName": "com.android.systemui",
+        "tag": "EGL_emulation",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 911000000
+        }
+      },
+      "message": "app_time_stats: avg\u003d60531.03ms min\u003d14.55ms max\u003d604946.62ms count\u003d10"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 592,
+        "tid": 615,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "WindowManager",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 925000000
+        }
+      },
+      "message": "Failed to deliver inset state change to w\u003dWindow{5c3ba9b u0 com.yandex.samokat/com.yandex.scooter.app.ui.main.MainActivity EXITING}\nandroid.os.DeadObjectException\n\tat android.os.BinderProxy.transactNative(Native Method)\n\tat android.os.BinderProxy.transact(BinderProxy.java:584)\n\tat android.view.IWindow$Stub$Proxy.insetsControlChanged(IWindow.java:473)\n\tat com.android.server.wm.WindowState.notifyInsetsControlChanged(WindowState.java:3995)\n\tat com.android.server.wm.InsetsStateController.lambda$notifyPendingInsetsControlChanged$4(InsetsStateController.java:351)\n\tat com.android.server.wm.InsetsStateController.$r8$lambda$An2IoiA3BeA5IWc6QwBOjKArM80(Unknown Source:0)\n\tat com.android.server.wm.InsetsStateController$$ExternalSyntheticLambda3.run(Unknown Source:2)\n\tat com.android.server.wm.WindowAnimator.executeAfterPrepareSurfacesRunnables(WindowAnimator.java:345)\n\tat com.android.server.wm.WindowAnimator.animate(WindowAnimator.java:226)\n\tat com.android.server.wm.WindowAnimator.lambda$new$1(WindowAnimator.java:106)\n\tat com.android.server.wm.WindowAnimator.$r8$lambda$fo2Nk5bb9hY3lvmHsTnTEwtZMbI(Unknown Source:0)\n\tat com.android.server.wm.WindowAnimator$$ExternalSyntheticLambda1.doFrame(Unknown Source:2)\n\tat android.view.Choreographer$CallbackRecord.run(Choreographer.java:1229)\n\tat android.view.Choreographer$CallbackRecord.run(Choreographer.java:1239)\n\tat android.view.Choreographer.doCallbacks(Choreographer.java:899)\n\tat android.view.Choreographer.doFrame(Choreographer.java:827)\n\tat android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:1214)\n\tat android.os.Handler.handleCallback(Handler.java:942)\n\tat android.os.Handler.dispatchMessage(Handler.java:99)\n\tat android.os.Looper.loopOnce(Looper.java:201)\n\tat android.os.Looper.loop(Looper.java:288)\n\tat android.os.HandlerThread.run(HandlerThread.java:67)\n\tat com.android.server.ServiceThread.run(ServiceThread.java:44)"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 5143,
+        "tid": 5163,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat:error_activity",
+        "tag": "HostConnection",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 970000000
+        }
+      },
+      "message": "HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_1 "
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 5143,
+        "tid": 5163,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat:error_activity",
+        "tag": "OpenGLRenderer",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 973000000
+        }
+      },
+      "message": "Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without..."
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 5143,
+        "tid": 5163,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat:error_activity",
+        "tag": "OpenGLRenderer",
+        "timestamp": {
+          "seconds": 1709800360,
+          "nanos": 973000000
+        }
+      },
+      "message": "Failed to initialize 101010-2 format, error \u003d EGL_SUCCESS"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 786,
+        "tid": 1027,
+        "applicationId": "com.android.systemui",
+        "processName": "com.android.systemui",
+        "tag": "EGL_emulation",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 1000000
+        }
+      },
+      "message": "app_time_stats: avg\u003d40948.96ms min\u003d40948.96ms max\u003d40948.96ms count\u003d1"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 5143,
+        "tid": 5163,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat:error_activity",
+        "tag": "EGL_emulation",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 1000000
+        }
+      },
+      "message": "eglCreateContext: 0x718bc93f10: maj 3 min 1 rcv 4"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 5143,
+        "tid": 5163,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat:error_activity",
+        "tag": "EGL_emulation",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 3000000
+        }
+      },
+      "message": "eglMakeCurrent: 0x718bc93f10: ver 3 1 (tinfo 0x739f468080) (first time)"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 592,
+        "tid": 615,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "WindowManager",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 72000000
+        }
+      },
+      "message": "Exception thrown during dispatchAppVisibility Window{5c3ba9b u0 com.yandex.samokat/com.yandex.scooter.app.ui.main.MainActivity EXITING}\nandroid.os.DeadObjectException\n\tat android.os.BinderProxy.transactNative(Native Method)\n\tat android.os.BinderProxy.transact(BinderProxy.java:584)\n\tat android.view.IWindow$Stub$Proxy.dispatchAppVisibility(IWindow.java:536)\n\tat com.android.server.wm.WindowState.sendAppVisibilityToClients(WindowState.java:3469)\n\tat com.android.server.wm.WindowContainer.sendAppVisibilityToClients(WindowContainer.java:1225)\n\tat com.android.server.wm.WindowToken.setClientVisible(WindowToken.java:392)\n\tat com.android.server.wm.ActivityRecord.setClientVisible(ActivityRecord.java:6714)\n\tat com.android.server.wm.ActivityRecord.onAnimationFinished(ActivityRecord.java:7526)\n\tat com.android.server.wm.WindowContainer$$ExternalSyntheticLambda4.onAnimationFinished(Unknown Source:2)\n\tat com.android.server.wm.SurfaceAnimator.lambda$getFinishedCallback$0(SurfaceAnimator.java:133)\n\tat com.android.server.wm.SurfaceAnimator.$r8$lambda$lRxTVOJy8fX752UbrFno9INW9hE(Unknown Source:0)\n\tat com.android.server.wm.SurfaceAnimator$$ExternalSyntheticLambda1.run(Unknown Source:8)\n\tat com.android.server.wm.SurfaceAnimator.lambda$getFinishedCallback$1(SurfaceAnimator.java:143)\n\tat com.android.server.wm.SurfaceAnimator.$r8$lambda$4PiCdaEsT4mA6LQVhqpeM5EoU9c(Unknown Source:0)\n\tat com.android.server.wm.SurfaceAnimator$$ExternalSyntheticLambda0.onAnimationFinished(Unknown Source:4)\n\tat com.android.server.wm.LocalAnimationAdapter.lambda$startAnimation$0(LocalAnimationAdapter.java:67)\n\tat com.android.server.wm.LocalAnimationAdapter.$r8$lambda$gPDCFw0mQLltlXqA3mL6IUKCwLs(Unknown Source:0)\n\tat com.android.server.wm.LocalAnimationAdapter$$ExternalSyntheticLambda0.run(Unknown Source:6)\n\tat android.os.Handler.handleCallback(Handler.java:942)\n\tat android.os.Handler.dispatchMessage(Handler.java:99)\n\tat android.os.Looper.loopOnce(Looper.java:201)\n\tat android.os.Looper.loop(Looper.java:288)\n\tat android.os.HandlerThread.run(HandlerThread.java:67)\n\tat com.android.server.ServiceThread.run(ServiceThread.java:44)"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 592,
+        "tid": 614,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "ActivityManager",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 82000000
+        }
+      },
+      "message": "setHasOverlayUi called on unknown pid: 4936"
+    },
+    {
+      "header": {
+        "logLevel": "ERROR",
+        "pid": 413,
+        "tid": 413,
+        "applicationId": "surfaceflinger",
+        "processName": "surfaceflinger",
+        "tag": "ClientCache",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 87000000
+        }
+      },
+      "message": "failed to get buffer, invalid process token"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 413,
+        "tid": 486,
+        "applicationId": "surfaceflinger",
+        "processName": "surfaceflinger",
+        "tag": "TransactionTracing",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 87000000
+        }
+      },
+      "message": "Could not find layer handle 0xb400007af2659110"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 413,
+        "tid": 486,
+        "applicationId": "surfaceflinger",
+        "processName": "surfaceflinger",
+        "tag": "TransactionTracing",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 87000000
+        }
+      },
+      "message": "Could not find layer handle 0xb400007af2660df0"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 413,
+        "tid": 486,
+        "applicationId": "surfaceflinger",
+        "processName": "surfaceflinger",
+        "tag": "TransactionTracing",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 87000000
+        }
+      },
+      "message": "Could not find layer handle 0xb400007af2659110"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 413,
+        "tid": 486,
+        "applicationId": "surfaceflinger",
+        "processName": "surfaceflinger",
+        "tag": "TransactionTracing",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 87000000
+        }
+      },
+      "message": "Could not find layer handle 0xb400007af2660610"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 413,
+        "tid": 486,
+        "applicationId": "surfaceflinger",
+        "processName": "surfaceflinger",
+        "tag": "TransactionTracing",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 87000000
+        }
+      },
+      "message": "Could not find layer handle 0xb400007af26598f0"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 413,
+        "tid": 486,
+        "applicationId": "surfaceflinger",
+        "processName": "surfaceflinger",
+        "tag": "TransactionTracing",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 87000000
+        }
+      },
+      "message": "Could not find layer handle 0xb400007af2660190"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 413,
+        "tid": 486,
+        "applicationId": "surfaceflinger",
+        "processName": "surfaceflinger",
+        "tag": "TransactionTracing",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 87000000
+        }
+      },
+      "message": "Could not find layer handle 0xb400007af265fe90"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 413,
+        "tid": 486,
+        "applicationId": "surfaceflinger",
+        "processName": "surfaceflinger",
+        "tag": "TransactionTracing",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 87000000
+        }
+      },
+      "message": "Could not find layer handle 0xb400007af26589f0"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 413,
+        "tid": 486,
+        "applicationId": "surfaceflinger",
+        "processName": "surfaceflinger",
+        "tag": "TransactionTracing",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 87000000
+        }
+      },
+      "message": "Could not find layer handle 0xb400007af265d9d0"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 413,
+        "tid": 486,
+        "applicationId": "surfaceflinger",
+        "processName": "surfaceflinger",
+        "tag": "TransactionTracing",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 87000000
+        }
+      },
+      "message": "Could not find layer handle 0xb400007af265d370"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 413,
+        "tid": 486,
+        "applicationId": "surfaceflinger",
+        "processName": "surfaceflinger",
+        "tag": "TransactionTracing",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 87000000
+        }
+      },
+      "message": "Could not find layer handle 0xb400007af265adf0"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 413,
+        "tid": 486,
+        "applicationId": "surfaceflinger",
+        "processName": "surfaceflinger",
+        "tag": "TransactionTracing",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 87000000
+        }
+      },
+      "message": "Could not find layer handle 0xb400007af265d9d0"
+    },
+    {
+      "header": {
+        "logLevel": "ERROR",
+        "pid": 413,
+        "tid": 413,
+        "applicationId": "surfaceflinger",
+        "processName": "surfaceflinger",
+        "tag": "BpTransactionCompletedListener",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 88000000
+        }
+      },
+      "message": "Failed to transact (-32)"
+    },
+    {
+      "header": {
+        "logLevel": "INFO",
+        "pid": 220,
+        "tid": 220,
+        "applicationId": "hwservicemanager",
+        "processName": "hwservicemanager",
+        "tag": "hwservicemanager",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 129000000
+        }
+      },
+      "message": "getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest."
+    },
+    {
+      "header": {
+        "logLevel": "INFO",
+        "pid": 5143,
+        "tid": 5163,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat:error_activity",
+        "tag": "Gralloc4",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 130000000
+        }
+      },
+      "message": "mapper 4.x is not supported"
+    },
+    {
+      "header": {
+        "logLevel": "INFO",
+        "pid": 220,
+        "tid": 220,
+        "applicationId": "hwservicemanager",
+        "processName": "hwservicemanager",
+        "tag": "hwservicemanager",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 165000000
+        }
+      },
+      "message": "getTransport: Cannot find entry android.hardware.graphics.allocator@4.0::IAllocator/default in either framework or device VINTF manifest."
+    },
+    {
+      "header": {
+        "logLevel": "INFO",
+        "pid": 219,
+        "tid": 219,
+        "applicationId": "servicemanager",
+        "processName": "servicemanager",
+        "tag": "servicemanager",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 167000000
+        }
+      },
+      "message": "Could not find android.hardware.graphics.allocator.IAllocator/default in the VINTF manifest."
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 5143,
+        "tid": 5163,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat:error_activity",
+        "tag": "Gralloc4",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 167000000
+        }
+      },
+      "message": "allocator 4.x is not supported"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 5143,
+        "tid": 5163,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat:error_activity",
+        "tag": "HostConnection",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 175000000
+        }
+      },
+      "message": "HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_1 "
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 5143,
+        "tid": 5163,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat:error_activity",
+        "tag": "Parcel",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 279000000
+        }
+      },
+      "message": "Expecting binder but got null!"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 592,
+        "tid": 611,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "ziparchive",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 305000000
+        }
+      },
+      "message": "Unable to open \u0027/data/app/~~ocwb1Fxv3A7ohSMgvc2uYQ\u003d\u003d/com.yandex.samokat-er_6Ay0fFjDKbpxMwoD95A\u003d\u003d/base.dm\u0027: No such file or directory"
+    },
+    {
+      "header": {
+        "logLevel": "INFO",
+        "pid": 592,
+        "tid": 611,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "ActivityTaskManager",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 307000000
+        }
+      },
+      "message": "Displayed com.yandex.samokat/com.yandex.scooter.app.ui.CustomCrashActivity: +1s395ms"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 592,
+        "tid": 2777,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "CompatibilityChangeReporter",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 321000000
+        }
+      },
+      "message": "Compat change id reported: 214016041; UID 10172; state: DISABLED"
+    },
+    {
+      "header": {
+        "logLevel": "INFO",
+        "pid": 1519,
+        "tid": 1519,
+        "applicationId": "com.google.android.inputmethod.latin",
+        "processName": "com.google.android.inputmethod.latin",
+        "tag": "GoogleInputMethodService",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 330000000
+        }
+      },
+      "message": "GoogleInputMethodService.onFinishInput():3220 "
+    },
+    {
+      "header": {
+        "logLevel": "INFO",
+        "pid": 1519,
+        "tid": 1519,
+        "applicationId": "com.google.android.inputmethod.latin",
+        "processName": "com.google.android.inputmethod.latin",
+        "tag": "GoogleInputMethodService",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 341000000
+        }
+      },
+      "message": "GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes \u003d 0, unlocked \u003d true"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 413,
+        "tid": 486,
+        "applicationId": "surfaceflinger",
+        "processName": "surfaceflinger",
+        "tag": "TransactionTracing",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 342000000
+        }
+      },
+      "message": "Could not find layer handle 0xb400007af265f170"
+    },
+    {
+      "header": {
+        "logLevel": "INFO",
+        "pid": 1519,
+        "tid": 1519,
+        "applicationId": "com.google.android.inputmethod.latin",
+        "processName": "com.google.android.inputmethod.latin",
+        "tag": "GoogleInputMethodService",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 342000000
+        }
+      },
+      "message": "GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType\u003d0x0(NULL) imeOptions\u003d0x0 privateImeOptions\u003dnull actionName\u003dUNSPECIFIED actionLabel\u003dnull actionId\u003d0 initialSelStart\u003d-1 initialSelEnd\u003d-1 initialCapsMode\u003d0x0 hintText\u003dnull label\u003dnull packageName\u003dcom.yandex.samokat fieldId\u003d-1 fieldName\u003dnull extras\u003dnull}, false)"
+    },
+    {
+      "header": {
+        "logLevel": "INFO",
+        "pid": 1519,
+        "tid": 1519,
+        "applicationId": "com.google.android.inputmethod.latin",
+        "processName": "com.google.android.inputmethod.latin",
+        "tag": "GoogleInputMethodService",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 343000000
+        }
+      },
+      "message": "GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes \u003d 2, unlocked \u003d true"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 592,
+        "tid": 2777,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "CoreBackPreview",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 638000000
+        }
+      },
+      "message": "Window{984817f u0 Splash Screen com.yandex.samokat EXITING}: Setting back callback null"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 592,
+        "tid": 609,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "InputManager-JNI",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 639000000
+        }
+      },
+      "message": "Input channel object \u0027984817f Splash Screen com.yandex.samokat (client)\u0027 was disposed without first being removed with the input manager!"
+    },
+    {
+      "header": {
+        "logLevel": "INFO",
+        "pid": 592,
+        "tid": 592,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "binder",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 746000000
+        }
+      },
+      "message": "592:592 transaction failed 29189/-22, size 88-0 line 2920"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 592,
+        "tid": 592,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "NotificationService",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 747000000
+        }
+      },
+      "message": "Object died trying to hide custom toast android.os.BinderProxy@58cf699 in package com.yandex.samokat"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 786,
+        "tid": 1027,
+        "applicationId": "com.android.systemui",
+        "processName": "com.android.systemui",
+        "tag": "EGL_emulation",
+        "timestamp": {
+          "seconds": 1709800361,
+          "nanos": 912000000
+        }
+      },
+      "message": "app_time_stats: avg\u003d21.51ms min\u003d0.31ms max\u003d89.78ms count\u003d32"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 5143,
+        "tid": 5163,
+        "applicationId": "com.yandex.samokat",
+        "processName": "com.yandex.samokat:error_activity",
+        "tag": "EGL_emulation",
+        "timestamp": {
+          "seconds": 1709800362,
+          "nanos": 511000000
+        }
+      },
+      "message": "app_time_stats: avg\u003d408.51ms min\u003d19.31ms max\u003d1138.74ms count\u003d3"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 786,
+        "tid": 1027,
+        "applicationId": "com.android.systemui",
+        "processName": "com.android.systemui",
+        "tag": "EGL_emulation",
+        "timestamp": {
+          "seconds": 1709800362,
+          "nanos": 917000000
+        }
+      },
+      "message": "app_time_stats: avg\u003d5.73ms min\u003d0.29ms max\u003d67.21ms count\u003d51"
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 592,
+        "tid": 614,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "WindowManager",
+        "timestamp": {
+          "seconds": 1709800363,
+          "nanos": 854000000
+        }
+      },
+      "message": "Unable to start animation, surface is null or no children."
+    },
+    {
+      "header": {
+        "logLevel": "WARN",
+        "pid": 592,
+        "tid": 592,
+        "applicationId": "system_process",
+        "processName": "system_process",
+        "tag": "WindowManager",
+        "timestamp": {
+          "seconds": 1709800372,
+          "nanos": 756000000
+        }
+      },
+      "message": "removeWindowToken: Attempted to remove non-existing token: android.os.Binder@e46d616"
+    },
+    {
+      "header": {
+        "logLevel": "INFO",
+        "pid": 1611,
+        "tid": 1827,
+        "applicationId": "com.google.android.as",
+        "processName": "com.google.android.as",
+        "tag": "AiAiEcho",
+        "timestamp": {
+          "seconds": 1709800380,
+          "nanos": 70000000
+        }
+      },
+      "message": "Predicting[0]: "
+    },
+    {
+      "header": {
+        "logLevel": "INFO",
+        "pid": 1611,
+        "tid": 1827,
+        "applicationId": "com.google.android.as",
+        "processName": "com.google.android.as",
+        "tag": "AiAiEcho",
+        "timestamp": {
+          "seconds": 1709800380,
+          "nanos": 71000000
+        }
+      },
+      "message": "Ranked targets strategy: SORT, count: 0, ranking metadata: "
+    },
+    {
+      "header": {
+        "logLevel": "INFO",
+        "pid": 1611,
+        "tid": 1827,
+        "applicationId": "com.google.android.as",
+        "processName": "com.google.android.as",
+        "tag": "AiAiEcho",
+        "timestamp": {
+          "seconds": 1709800380,
+          "nanos": 74000000
+        }
+      },
+      "message": "#postPredictionTargets: Sending updates to UISurface lockscreen with targets# 0"
+    },
+    {
+      "header": {
+        "logLevel": "INFO",
+        "pid": 1611,
+        "tid": 1827,
+        "applicationId": "com.google.android.as",
+        "processName": "com.google.android.as",
+        "tag": "AiAiEcho",
+        "timestamp": {
+          "seconds": 1709800380,
+          "nanos": 75000000
+        }
+      },
+      "message": "#postPredictionTargets: Sending updates to UISurface home with targets# 0"
+    },
+    {
+      "header": {
+        "logLevel": "INFO",
+        "pid": 1611,
+        "tid": 1827,
+        "applicationId": "com.google.android.as",
+        "processName": "com.google.android.as",
+        "tag": "AiAiEcho",
+        "timestamp": {
+          "seconds": 1709800380,
+          "nanos": 77000000
+        }
+      },
+      "message": "#postPredictionTargets: Sending updates to UISurface media_data_manager with targets# 0"
+    },
+    {
+      "header": {
+        "logLevel": "DEBUG",
+        "pid": 786,
+        "tid": 1027,
+        "applicationId": "com.android.systemui",
+        "processName": "com.android.systemui",
+        "tag": "EGL_emulation",
+        "timestamp": {
+          "seconds": 1709800380,
+          "nanos": 81000000
+        }
+      },
+      "message": "app_time_stats: avg\u003d3179.98ms min\u003d30.84ms max\u003d18448.01ms count\u003d6"
+    }
+  ]
+}
